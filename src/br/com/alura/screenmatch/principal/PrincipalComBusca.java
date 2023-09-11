@@ -61,7 +61,5 @@ public class PrincipalComBusca {
         escrita.write(gson.toJson(titulos));
         System.out.println("\nO programa finalizou corretamente!");
 
-        //teste
-
     }
 }
